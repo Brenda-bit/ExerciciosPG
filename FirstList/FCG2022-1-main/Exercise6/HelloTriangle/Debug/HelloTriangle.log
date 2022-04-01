@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\HelloTriangle\Source.cpp(23,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\HelloTriangle\Source.cpp(119,18): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\HelloTriangle\Source.cpp(121,23): warning C4244: 'inicializando': conversão de 'float' para 'unsigned int', possível perda de dados
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\HelloTriangle\Source.cpp(146,42): warning C4244: 'argumento': conversão de 'float' para 'GLsizeiptr', possível perda de dados
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\HelloTriangle\Source.cpp(162,18): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\HelloTriangle\Source.cpp(163,23): warning C4244: 'inicializando': conversão de 'float' para 'unsigned int', possível perda de dados
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\HelloTriangle\Source.cpp(201,42): warning C4244: 'argumento': conversão de 'float' para 'GLsizeiptr', possível perda de dados
+  HelloTriangle.vcxproj -> C:\Users\Brenda\Documents\GitHub\ExerciciosPG\FirstExercise\FCG2022-1-main\Exercise6-a\Debug\HelloTriangle.exe

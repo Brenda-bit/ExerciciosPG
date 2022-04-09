@@ -1,0 +1,5 @@
+No exercício 1, ao utilizar as dimensões de 10, o objeto aparece muito pequeno na tela, na qual sendo necessário aumentar o tamanho do objeto.
+Já no exercício 2, o objeto não aparece, e ao desenhar um triangulo com pontos, apenas aparece um ponto mas muito deslocado.
+
+Configurar o x e y (minímo e máximo) é essencial para o desenho do objeto, com essas configurações não ajustadas, o objeto pode aparecer distorcido ou muito pequeno/ grande 
+para a dimensão da tela

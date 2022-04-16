@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\ThirdList\Exercise3\HelloTriangle\Source.cpp(98,15): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\ThirdList\Exercise3\HelloTriangle\Source.cpp(101,16): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\ThirdList\Exercise3\HelloTriangle\Source.cpp(104,16): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Brenda\Documents\GitHub\ExerciciosPG\ThirdList\Exercise3\HelloTriangle\Source.cpp(107,15): warning C4305: '+=': truncamento de 'double' para 'float'
+  HelloTriangle.vcxproj -> C:\Users\Brenda\Documents\GitHub\ExerciciosPG\ThirdList\Exercise3\Debug\HelloTriangle.exe

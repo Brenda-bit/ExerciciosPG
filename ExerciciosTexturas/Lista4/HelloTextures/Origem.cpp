@@ -53,8 +53,6 @@ int main()
 	// Inicialização da GLFW
 	glfwInit();
 
-	
-
 	// Criação da janela GLFW
 	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Hello Textures!", nullptr, nullptr);
 	glfwMakeContextCurrent(window);
